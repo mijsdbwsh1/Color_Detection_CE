@@ -9,6 +9,4 @@
 *.tlog
 *.lastbuildstate
 
-
-OpenCV
-x64
+Color_Detection_CE
