@@ -1,3 +1,5 @@
+*.sln
+*.pbl
 *.vcxproj
 *.filters
 *.user
@@ -9,3 +11,4 @@
 
 
 OpenCV
+x64
